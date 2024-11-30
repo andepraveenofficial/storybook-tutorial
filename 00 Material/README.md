@@ -7,6 +7,7 @@
 
 - Introduction
 - Setup
+- Stories
 - Documentation
 
 </details>
@@ -78,6 +79,11 @@ npm install vite@^5.0.0
 ## Stories
 
 - If you want to create story, create `Button.stories.ts` this type of `.stories.ts` extension then only storybooks knows the story.
+
+### Steps
+
+1. meta
+2. story
 
 ### Template
 
